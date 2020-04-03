@@ -13,3 +13,5 @@ Jinja2==2.11.1
 MarkupSafe==1.1.1
 Werkzeug==1.0.0
 
+#Runtime
+python-3.7.2
